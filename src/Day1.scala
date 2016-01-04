@@ -1,8 +1,7 @@
 object Day1 {
 
   def main(args: Array[String]) {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution
-*/
+    
     val doubleVal1: Double = 5.35;
     val charVal1: Char = 'a';
     val booleanVal1: Boolean = false;
