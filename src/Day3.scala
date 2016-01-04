@@ -7,6 +7,7 @@ object Day3 {
     if(N%2==1) {
       println("Weird");
     } else if(N%2==0) {
+
       if(2<=N && N<=5)
         println("Not Weird");
       else if(6<=N && N<=20)
